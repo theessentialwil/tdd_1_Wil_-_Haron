@@ -1,0 +1,5 @@
+node_modules
+test/appTest.js
+.eslintrc.js
+.prettierrc.js
+app.js
