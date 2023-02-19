@@ -16,5 +16,10 @@ describe('My very first test-first assignment for number multiplication unit', (
   it('check that unit returns product of two numbers 2 and 2', () => {
     assert.equal(multiply(2, 2), 4);
   })
+
+  // Test First TDD Cycle 3
+  it('check that unit returns product of 3 and 3', () => {
+    assert.equal(multiply(3, 3), 9);
+  })
   
 });
