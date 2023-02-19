@@ -27,4 +27,8 @@ describe('My very first test-first assignment for number multiplication unit', (
     assert.equal(multiply(4,4), 16);
   })
   
+  // Fifth Test Cycle
+  it('check that unit returns product of two numbers', () => {
+    assert.equal(multiply(23,45), 23 * 45);
+  })
 });
